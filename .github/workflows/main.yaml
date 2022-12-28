@@ -89,3 +89,4 @@ jobs:
         env:
           JRELEASER_GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         if: ${{ success() && github.ref != 'refs/heads/main'}}
+        
