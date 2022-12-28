@@ -6,7 +6,7 @@ Native Images von _ilimanager_ für Windows, macOS und Linux. Java wird nicht me
 ./ilimanager --help
 ```
 
-Für jede Version von _ili2gpkg_ gibt es einen Branch, z.B. `V_0_9_1`. Das Native Image wird als Zip-Datei unter https://github.com/edigonzales/ilimanager-native/releases veröffentlicht. Die Zahl nach dem Unterstrich entspricht der Buildnummer der Github-Action. Der main-Branch kann keine Releases machen.
+Für jede Version von _ilimanager_ gibt es einen Branch, z.B. `V_0_9_1`. Das Native Image wird als Zip-Datei unter https://github.com/edigonzales/ilimanager-native/releases veröffentlicht. Die Zahl nach dem Unterstrich entspricht der Buildnummer der Github-Action. Der main-Branch kann keine Releases machen.
 
 ## Develop
 
